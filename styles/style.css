@@ -330,6 +330,7 @@ strong,label{
 }
 
 .modal-content{
+    background-color: #0a0a0a;
     color:#eee;
     height:inherit;
 }
