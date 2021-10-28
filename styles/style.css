@@ -275,12 +275,12 @@ a{
 }
 
 .image2{
-    background-image: url("../assets/gamer.jpg");
+    background-image: url("../assets/gaming.jpg");
 }
 
 .image3{
   
-    background-image: url("../assets/cpp.jpg");
+    background-image: url("../assets/webdesigning.jpg");
 }
 
 .image4{
@@ -292,7 +292,7 @@ a{
 }
 
 .image6{
-    background-image: url("../assets/movie.png");
+    background-image: url("../assets/Movie-making.jpg");
 }
 .image7{
     background-image: url("../assets/logo.jpg");
@@ -307,7 +307,7 @@ a{
     background-image: url("../assets/hack.jpg");
 }
 .image11{
-    background-image: url("../assets/phone.jpeg");
+    background-image: url("../assets/quiz.jpg");
 }
 .image12{
     background-image: url("../assets/photo.jpg");
@@ -330,7 +330,6 @@ strong,label{
 }
 
 .modal-content{
-    background-color: black;
     color:#eee;
     height:inherit;
 }
