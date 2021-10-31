@@ -138,14 +138,6 @@ color:white;
     padding:2vh;
     text-align: center;
 }
-.image-code {
-    -webkit-filter: invert(1);
-    filter: invert(1);
-    width: 275px;
-    height: 250px;
-    margin-top: 10px;
-    margin-left: 10px;
-}
 .image{
     background-image: url("../assets/webd.jpg");
     background-size: cover;
@@ -257,6 +249,14 @@ a{
     .image{
         width: 95%;
     }
+}
+.image-code {
+    -webkit-filter: invert(1);
+    filter: invert(1);
+    width: 275px;
+    height: 250px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 .image{
     background-position: center;
