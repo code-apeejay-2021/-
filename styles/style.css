@@ -258,6 +258,14 @@ a{
     margin-top: 10px;
     margin-left: 10px;
 }
+.image-code1 {
+    -webkit-filter: invert(1);
+    filter: invert(1);
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
 .image{
     background-position: center;
     background-size: cover;
