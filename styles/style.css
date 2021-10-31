@@ -253,17 +253,17 @@ a{
 .image-code {
     -webkit-filter: invert(1);
     filter: invert(1);
-    width: 275px;
-    height: 250px;
-    margin-top: 10px;
-    margin-left: 10px;
+    width: 175px;
+    height: 150px;
+    margin-bottom: 5px;
 }
 .image-code1 {
     -webkit-filter: invert(1);
     filter: invert(1);
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     margin-top: 10px;
+    margin-bottom: 5px;
     margin-left: 10px;
 }
 .image{
